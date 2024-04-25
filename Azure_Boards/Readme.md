@@ -1,20 +1,23 @@
-## azure board notes
+## new azure board document
 
-* azure board is project management tool similar to __jira__
+* the below __basic__ task flow
 
-### what we acheive
+* ![basic-porcess](./Images/basic-process.png)
 
-* Schedule and track your tasks and issues with Azure Boards
-* Work with software developers to build applications with source control management tools like Azure Repos
-* Set up continuous integration and deployment with Azure Pipelines
-* Create, organize, and share packages with Azure Artifacts
-* Test applications end to end using Azure Test Plans
-* ![sample task hiereachy](./Images/image-1.jpg)
+* the below __agile process__ task flow
 
-* ![different-scurm](./Images/image-2.jpg)
+* ![agile-process](./Images/agileprocess.png)
 
-* ![different-scurm](./Images/image-3.jpg)
+* the below __scrum process__ task flow
 
-* ![different-scurm](./Images/image-4.jpg)
+* ![scrum-process](./Images/scrum-process.png)
 
-* ![different-scurm](./Images/image-5.jpg)
+
+## CMMI
+
+* __CMMI__: The Capability Maturity Model Integration (CMMI) process is more appropriate when the team follows a more formal project methodology that requires a process improvement framework and a record of supportable decisions. This process model helps track requirements and change requests, risks, and assessments.
+
+* ![cmmi-process](./Images/cmmi-process.png)
+
+* need some other images of , how to create work item
+
