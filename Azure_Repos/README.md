@@ -19,7 +19,7 @@
 
 * in this file, I am coving basic , which we need to leaen azure devops
 
-* for detail learning go through the below youtube playlist ![check here](https://www.youtube.com/watch?v=_be8L71MF58&list=PLQ0t4AtIOGpreAc397qiuApK22xaCIQfH)
+* for detail learning go through the below youtube playlist [check here](https://www.youtube.com/watch?v=_be8L71MF58&list=PLQ0t4AtIOGpreAc397qiuApK22xaCIQfH)
 
 
 *  __branch__: it  is a separate version of your code repository. This represents a separated line of development. To modify the codebase, you should create a branch and work from there in isolation until you are ready to merge your changes.
