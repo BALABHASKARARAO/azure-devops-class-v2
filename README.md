@@ -22,3 +22,19 @@
 
 * __Azure Test Plans__: Azure Test Plans is a test management platform with all the abilities required for different testing styles and gathering feedback from stakeholders. Some testing styles include planned manual testing, user acceptance testing, and exploratory testing.
 * __Azure Artifacts__: Azure Artifacts allows software developers to share their code effectively and handle all their packaged code from one place. With Azure Artifacts, developers can publish packages to their feeds and share them within the same team, across multiple product teams or organizations, and even publicly.
+* __Visual Studio Marketplace__: You can download extensions for Azure DevOps from the Visual Studio Marketplace. These extensions are created by Microsoft, in collaboration with the tech community. They are add-ons that customize and advance your team's venture with Azure DevOps. They can expand different parts of the DevOps toolchain, from managing work items to code integration and testing, pipeline builds and software releases, and team synergy.
+
+### BENEFITS OF AZURE DevOps
+* The following are the benefits of Azure DevOps:
+
+* __Flexibility__: You don't have to use the entire Azure DevOps suite. It is attainable to adopt each of the services independently and merge them with your existing toolchain and process.
+* __Platform agnostic__: Azure DevOps works with various operating systems (Linux, macOS, and Windows) and programming languages.
+* __Cloud agnostic__: Azure DevOps supports continuous delivery to other cloud providers.
+
+## SUMMARY
+
+* Azure DevOps provides an end-to-end DevOps toolchain for developing and deploying software.
+
+* Azure DevOps has two offerings. It can be used either on the cloud as a software-as-a-service platform using Azure DevOps Services or as an on-premise tool using Azure DevOps Server.
+* Azure DevOps features include Azure Boards, Azure Repos, Azure Pipelines, Azure Test Plans, and Azure Artifacts.*
+* Continuous monitoring is an essential part of DevOps, and Azure Application Insights is a tool to integrate with the Azure DevOps toolchain for application observability purposes
