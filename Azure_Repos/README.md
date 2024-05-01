@@ -2,6 +2,8 @@
 
 * Azure Repo purpose is __ to provide "git remote repository purpsoe__
 
+* Before know/learna about __git__, the person has to know about __git__ otherwise the purpose azure 
+
 * git  is __distrubuted version control system__
 
 * before start work with __git__ has to install in our workstation.
