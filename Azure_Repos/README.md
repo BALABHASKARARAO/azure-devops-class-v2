@@ -17,6 +17,8 @@
 
 * first we need to know __areas in git__
 
+* ![ares-in-git](git-areas.png "ares in git")
+
 * In the local repo or local system which represents a developer’s system, We have three areas
   * __Working Tree/working directory__: This is where we make changes
   * ___Staging area__: This is intermediate area before sending changes to local repo
@@ -24,6 +26,8 @@
 
 * the 4 th one : __git remote repositoryy__.
   * it may be __github__ or __bitbucket__ or __gitlab__ or __Azure Repos__ or any other etc
+
+
 
 
 * in this file, I am covring basic of git ,  which we need to lean razure devops
