@@ -37,6 +37,10 @@
 * __Cloning__ it  is the act of downloading the contents of a repository from a remote server.
 * __pull__: it is the process of downloading changes that don't exist on your machine from a remote repository.
 * __Push__: it  is the process of adding your local changes to a remote repository.
+* __merge__: to merge . one branch code into another branch__
+* __tag__:
+
+* 
 
 
 
