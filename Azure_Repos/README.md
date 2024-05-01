@@ -17,7 +17,7 @@
 
 * first we need to know __areas in git__
 
-* ![ares-in-git](git-areas.png "ares in git")
+* ![ares-git](git-areas.png)
 
 * In the local repo or local system which represents a developer’s system, We have three areas
   * __Working Tree/working directory__: This is where we make changes
